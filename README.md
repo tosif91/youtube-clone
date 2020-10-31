@@ -1,16 +1,23 @@
 # my_youtube
 
-A new Flutter project.
+A new Flutter project(Youtube Data Api).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+dependincies :
+#for state management
+ stacked: ^1.7.6
+ get_it: ^4.0.4
+ stacked_services: ^0.5.4+2
+#for network
+ http: ^0.12.2 
+ connectivity: ^0.4.9+3
+#image  
+ cached_network_image: ^2.3.2+1
+#videoplayer
+ youtube_player_flutter: ^7.0.0+7
+#data parsing
+ intl: ^0.16.1
+ 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
