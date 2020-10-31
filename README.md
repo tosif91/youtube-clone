@@ -37,15 +37,18 @@ Features///
 
 1) onTextChange search query 
 
+![til](app_state.gif)
+
 2) inifinite listscroll fully implemented
 
-![til](app_state.gif)
+![till](player-state.gif)
 
 3) video player for playing selected videos
 
 4) comment are also fetched from API and visible on screen.
 
 ![til](network_state.gif)
+
 
 5) forever stream for network connection runs to provide the network state
 
