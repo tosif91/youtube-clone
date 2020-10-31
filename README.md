@@ -35,10 +35,15 @@ intl: ^0.16.1
 
 Features///
 
-1) onTextChange searhc query 
+1) onTextChange search query 
 
 2) inifinite listscroll fully implemented
+
+![til](app_state.gif)
 
 3) video player for playing selected videos
 
 4) comment are also fetched from API and visible on screen.
+
+5) forever stream for network connection runs to provide the network state
+![til](network_state.gif)
