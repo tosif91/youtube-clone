@@ -33,9 +33,13 @@ youtube_player_flutter: ^7.0.0+7
 intl: ^0.16.1
  
 
-Features///
 
-1) onTextChange search query 
+
+##Features///
+
+## App uses MMVM architecture to reduce code complexity and provide more flexibility.
+
+1) onTextChange search query ( this Query work after entering text length > 3  and debounce for 500ms to reduce API Quota Usage)
 
 ![til](app_state.gif)
 
