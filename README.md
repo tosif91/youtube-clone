@@ -45,5 +45,7 @@ Features///
 
 4) comment are also fetched from API and visible on screen.
 
-5) forever stream for network connection runs to provide the network state
 ![til](network_state.gif)
+
+5) forever stream for network connection runs to provide the network state
+
