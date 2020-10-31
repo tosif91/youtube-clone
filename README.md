@@ -4,7 +4,7 @@ A new Flutter project(Youtube Data Api).
 
 ## Getting Started
 
-dependincies :
+##DEPENDENCIES :
 #for state management
  stacked: ^1.7.6
  get_it: ^4.0.4
