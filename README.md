@@ -1,6 +1,6 @@
 # This app clones basic functionality of Youtube.
 
-##Features
+Features :
 
 1) Search videos from Youtube Api
 
